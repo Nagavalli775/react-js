@@ -1,0 +1,25 @@
+{
+  "name": "lec2-igniting-app",
+  "version": "1.0.0",
+  "description": "react js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Nagavalli775/react-js.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Nagavalli M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nagavalli775/react-js/issues"
+  },
+  "homepage": "https://github.com/Nagavalli775/react-js#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
